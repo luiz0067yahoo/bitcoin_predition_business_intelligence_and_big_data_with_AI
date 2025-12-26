@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+.ipynb_checkpoints/
+# Ignorar DataSets gigantes, manter apenas amostras ou links
+data/walletexplorer*.csv
+# Ignorar zips gerados
+*.zip
+# Ignorar arquivos temporários de relatório, manter apenas o final se desejado (mas vou deixar o V4 commitado)
+~$*.docx
+resultados_benchmark_5_arenas/Relatorio_Cientifico_5_Arenas_FINAL.docx
+resultados_benchmark_5_arenas/Relatorio_Cientifico_5_Arenas_FINAL_V2.docx
+resultados_benchmark_5_arenas/Relatorio_Cientifico_5_Arenas_FINAL_V3.docx
