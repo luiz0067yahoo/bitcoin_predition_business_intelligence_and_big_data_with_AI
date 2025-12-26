@@ -1,0 +1,4 @@
+Vol_com-000012a55e988d91.csv: 1383 dias integrados
+Vol_de-00001f0f1e29ea25.csv: 5220 dias integrados
+Vol_com-00001012b1848923.csv: 2973 dias integrados
+Vol_com-00000b55c1bcbc1f.csv: 1630 dias integrados
